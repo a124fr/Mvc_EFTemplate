@@ -1,0 +1,10 @@
+packages/
+Mvc_EFTemplate/bin/
+Mvc_EFTemplate/obj/
+Mvc_EFTemplate/Web.config
+Mvc_EFTemplate/Web.Debug.config
+Mvc_EFTemplate/Web.Release.config
+Mvc_EFTemplate.v12.suo
+Mvc_EFTemplate.EntidadeDAL/obj/
+Mvc_EFTemplate.EntidadeDAL/bin/
+Mvc_EFTemplate.EntidadeDAL/App.config
